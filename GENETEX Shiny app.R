@@ -4,7 +4,7 @@
 library(shiny)
 library(tidyverse)
 library(shinydashboard)
-library(genetex)
+library(BodyMapR)
 
 ##########################################################################################################################
 # Create Input Objects
